@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guess_the_number", "guess_the_number\guess_the_number.csproj", "{57E68E9A-5A33-4195-9729-691BB28525BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E68E9A-5A33-4195-9729-691BB28525BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E68E9A-5A33-4195-9729-691BB28525BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E68E9A-5A33-4195-9729-691BB28525BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E68E9A-5A33-4195-9729-691BB28525BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
